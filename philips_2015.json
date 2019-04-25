@@ -1,0 +1,13 @@
+{
+    "philips_2015": {
+        "version": "1.0.1",
+        "local_location": "/custom_components/philips_2015/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/elad-bar/ha-philips-2015/master/custom_components/philips_2015/__init__.py",
+        "visit_repo": "https://github.com/elad-bar/ha-philips-2015",
+        "changelog": "https://github.com/elad-bar/ha-philips-2015/releases/latest",
+        "resources": [
+            "https://raw.githubusercontent.com/elad-bar/ha-philips-2015/master/custom_components/philips_2015/media_player.py",
+            "https://raw.githubusercontent.com/elad-bar/ha-philips-2015/master/custom_components/philips_2015/manifest.json"
+        ]
+    }
+}

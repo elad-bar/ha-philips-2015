@@ -1,0 +1,8 @@
+{
+    "domain": "philips_2015",
+    "name": "Philips TV 2015",
+    "documentation": "https://github.com/elad-bar/ha-philips-2015/blob/master/README.md",
+    "dependencies": [],
+    "codeowners": ["@elad-bar"],
+    "requirements": []
+}
